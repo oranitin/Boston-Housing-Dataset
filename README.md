@@ -54,10 +54,8 @@ Understanding the drivers of housing prices helps stakeholders make informed dec
 
 ## 👩‍💻 Author
 
-**Fitrah Rahmi Putri, S.Kom**  
-📧 Email: fitrah.rahmi.putri@gmail.com  
-🔗 LinkedIn: [fitrah-rahmi-putri](https://www.linkedin.com/in/fitrah-rahmi-putri-99711a157/)  
-🔗 GitHub: [@Rpfitrah](https://github.com/Rpfitrah)
+**Nitin Zade**  
+📧 Email: nitinzade72@gmail.com  
 
 ---
 
