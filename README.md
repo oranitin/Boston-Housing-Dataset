@@ -52,13 +52,3 @@ Understanding the drivers of housing prices helps stakeholders make informed dec
 
 ---
 
-## 👩‍💻 Author
-
-**Nitin Zade**  
-📧 Email: nitinzade72@gmail.com  
-
----
-
-## 📝 License
-
-This project is intended for educational purposes only. No license is attached.
